@@ -1,9 +1,19 @@
 ---
-title: "About"
+title: "About me"
+about:
+  template: solana
 ---
 
-About this site
+## Experience
 
-```{r}
-1 + 1
-```
+[NorQuant AS](https://www.norquant.no/) \| Senior Researcher \| Quantitative Analyst \| Jan 2019 - Sept 2023
+
+[Norwegian Association for Quantitative Finance](https://nfkf.no/) \| Board Member \| Dec 2021 - Present
+
+[Nord University](https://www.nord.no/) \| Researcher \| Sept 2016 - Sept 2023
+
+## Education
+
+[Nord University \| Norway](https://www.nord.no/) PhD in Finance \| 2016 - 2020
+
+[BI Norwegian Business School \| Norway](https://www.bi.edu/) Master in Finance \| 2013 - 2015

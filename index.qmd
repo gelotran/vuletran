@@ -1,11 +1,29 @@
 ---
-title: "vuletran"
+title: "Vu Le Tran, PhD"
+image: VuTran.jpg
+about:
+    template: trestles
+    image-shape: round
+    image-width: 21em
+    links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/levutran/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/GeloTran
+    - icon: github
+      text: GitHub
+      href: https://github.com/gelotran
+    - icon: envelope
+      text: Email
+      href: mailto:gelotran@gmail.com
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=ObSTO-YAAAAJ&hl=en
 ---
 
-This is a Quarto website.
+Welcome to my website. I am Vu Le Tran, an experienced Quantitative Investment researcher specializing in empirical asset pricing, ESG, sustainable investment, and machine learning.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am also an experienced practitioner in the investment industry with a solid foundation in risk management, fund management, investment management, portfolio management, and Python/R programming. I was the key contributor to the fund management and operation of [NorQuant Multi-Asset](https://markets.ft.com/data/funds/tearsheet/summary?s=SE0014957916:NOK) and NorQuant ESG mutual funds.
 
-```{r}
-1 + 1
-```
+Additionally, I am honored to serve as a board member for the [Norwegian Association for Quantitative Finance](https://nfkf.no/). I am always seeking new opportunities to apply my expertise in a dynamic and innovative environment. Thank you for visiting, and I look forward to exploring the possibilities together.

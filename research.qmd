@@ -1,0 +1,41 @@
+---
+title: "Research"
+about:
+  template: solana
+---
+
+## Publications
+
+-   ESG News Spillovers Across the Value Chain
+
+    **Financial Management**, Forthcoming (2023), (with Guillaume Coqueret) [\[Working Paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4002705)
+
+-   Sentiment and covariance characteristics
+
+    **International Review of Financial Analysis**, Vol 86 (2023), 102533 [\[Link\]](https://doi.org/10.1016/j.irfa.2023.102533)
+
+-   Stock markets during COVID-19
+
+    **Beta**, Vol. 36, Iss. 1 (2022) (with Sjur Westgaard, and Maria Lavrutich) [\[Link\]](https://doi.org/10.18261/beta.36.1.3)
+
+-   Efficiency in the markets of crypto-currencies
+
+    **Finance Research Letters**, Vol. 35 (2020), 101382 (with Thomas Leirvik) [\[Link\]](https://doi.org/10.1016/j.frl.2019.101382)
+
+-   A simple but powerful measure of market efficiency
+
+    **Finance Research Letters**, Vol. 29 (2019), pp. 141-151 (with Thomas Leirvik) [\[Link\]](https://doi.org/10.1016/j.frl.2019.03.004)
+
+    R package to compute **AMIM** [\[Link\]](https://github.com/gelotran/AMIM)
+
+## Grants
+
+-   Machine Learning for Transparent and Sustainable Investing, 14 million NOK (\~1.4 million EUR)
+
+    **Research Council of Norway \| NorQuant AS,** Project 309603, 2020-2024 [\[Link\]](https://prosjektbanken.forskningsradet.no/en/project/FORISS/309603?Kilde=FORISS&distribution=Ar&chart=trend&calcType=projects&Sprak=no&sortBy=date&sortOrder=desc&resultCount=30&offset=0&Organisasjon.3=NORQUANT+TECHNOLOGY+AS)
+
+## Working Papers
+
+-   Climate-Change Risk and Stocks\' Return (with Thomas Leirvik, Morten Parschat, Petter Schive) [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4306875)
+
+-   Liquidity volatility and expected stock returns (with Thomas Leirvik)
