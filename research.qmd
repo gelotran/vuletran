@@ -8,7 +8,7 @@ about:
 
 -   ESG News Spillovers Across the Value Chain
 
-    **Financial Management**, Forthcoming (2023), (with Guillaume Coqueret) [\[Working Paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4002705)
+    **Financial Management**, Forthcoming (2023), (with Guillaume Coqueret) [\[Link\]](https://doi.org/10.1111/fima.12431)
 
 -   Sentiment and covariance characteristics
 
@@ -36,6 +36,6 @@ about:
 
 ## Working Papers
 
--   Climate-Change Risk and Stocks\' Return (with Thomas Leirvik, Morten Parschat, Petter Schive) [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4306875)
+-   Climate-Change Risk and Stocks' Return (with Thomas Leirvik, Morten Parschat, Petter Schive) [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4306875)
 
 -   Liquidity volatility and expected stock returns (with Thomas Leirvik)
