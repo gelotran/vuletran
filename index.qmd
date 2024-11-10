@@ -24,6 +24,8 @@ about:
 
 Welcome to my website. I am Vu Le Tran, an experienced Quantitative Investment researcher specializing in empirical asset pricing, ESG, sustainable investment, and machine learning.
 
-I am also an experienced practitioner in the investment industry with a solid foundation in risk management, fund management, investment management, portfolio management, and Python/R programming. I was the key contributor to the fund management and operation of [NorQuant Multi-Asset](https://markets.ft.com/data/funds/tearsheet/summary?s=SE0014957916:NOK) and NorQuant ESG mutual funds.
+I have played a key role in the performance and growth of the [NorQuant Multi-Asset](https://markets.ft.com/data/funds/tearsheet/summary?s=SE0014957916:NOK), which holds a 5-star Morningstar rating. Currently, I contribute to managing pension portfolios for Gjensidige Pensjon Forsikring AS, overseeing assets under management totaling $7 billion as of 2024.
+
+I have published several research articles on empirical asset pricing, ESG, climate risk, and sustainable investment. These articles, funded by the Norwegian Research Council, have been recognized by top academic journals.
 
 Additionally, I am honored to serve as a board member for the [Norwegian Association for Quantitative Finance](https://nfkf.no/). I am always seeking new opportunities to apply my expertise in a dynamic and innovative environment. Thank you for visiting, and I look forward to exploring the possibilities together.
